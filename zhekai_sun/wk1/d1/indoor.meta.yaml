@@ -1,0 +1,6 @@
+canemcamera_model: iPhone 15 Main Camera
+resolution: 1080 x 1980
+fps: 29.99
+exposure: fixed
+distance_range: 1m - 5m
+lighting: indoor, warm light, average brightness
